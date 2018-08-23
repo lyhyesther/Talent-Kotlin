@@ -2,8 +2,8 @@ package com.ly.common.widget
 
 import android.content.Context
 import android.graphics.Color
-import android.media.MediaPlayerimport android.os.Handler
-
+import android.media.MediaPlayer
+import android.os.Handler
 import android.os.Message
 import android.support.annotation.RawRes
 import android.util.AttributeSet
